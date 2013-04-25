@@ -1,0 +1,14 @@
+body{
+	background: none repeat scroll 0 0 #ffffff;
+	background-image: url('../images/bg.png');
+	background-repeat: repeat-x;
+	background-color: #8b8d90;
+	margin: 0 auto;
+	width: 1000px;
+}
+
+img{
+	-moz-box-shadow: 5px 5px 5px #000;
+	-webkit-box-shadow: 5px 5px 5px #000;
+	box-shadow: 5px 5px 5px #000;
+}
